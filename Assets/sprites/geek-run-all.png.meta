@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 1de341f227a1cda4a8c9ab2321e1f7bd
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: geek-run-all_0
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2358
+        width: 332
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: geek-run-all_1
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2352
+        width: 332
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: geek-run-all_2
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2339
+        width: 332
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: geek-run-all_3
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 2352
+        width: 332
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: geek-run-all_4
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 2356
+        width: 332
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: geek-run-all_5
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1536
+        width: 332
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: geek-run-all_6
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1520
+        width: 332
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: geek-run-all_7
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1518
+        width: 332
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: geek-run-all_8
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1522
+        width: 332
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: geek-run-all_9
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1528
+        width: 332
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: geek-run-all_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 778
+        width: 332
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: geek-run-all_11
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 784
+        width: 332
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: geek-run-all_12
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 768
+        width: 332
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: geek-run-all_13
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 792
+        width: 332
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: geek-run-all_14
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 751
+        width: 332
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: geek-run-all_15
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 43
+        width: 332
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: geek-run-all_16
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 67
+        width: 332
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: geek-run-all_17
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 31
+        width: 332
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: geek-run-all_18
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 43
+        width: 332
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: geek-run-all_19
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 46
+        width: 332
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

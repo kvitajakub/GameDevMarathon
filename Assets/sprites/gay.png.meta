@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: fac46bfb1e705874c81bc7d7944760df
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: gay_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2368
+        width: 329
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: gay_1
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 2374
+        width: 329
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: gay_2
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 2366
+        width: 329
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: gay_3
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 2358
+        width: 329
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: gay_4
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 2362
+        width: 329
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: gay_5
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 2348
+        width: 329
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: gay_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1696
+        width: 329
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: gay_7
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1692
+        width: 329
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: gay_8
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1684
+        width: 329
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: gay_9
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1696
+        width: 329
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: gay_10
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1696
+        width: 329
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: gay_11
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1700
+        width: 329
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: gay_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1032
+        width: 329
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: gay_13
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1044
+        width: 329
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: gay_14
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1040
+        width: 329
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: gay_15
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1048
+        width: 329
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: gay_16
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1040
+        width: 329
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: gay_17
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 1040
+        width: 329
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: gay_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 344
+        width: 329
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: gay_19
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 340
+        width: 329
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: gay_20
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 356
+        width: 329
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
