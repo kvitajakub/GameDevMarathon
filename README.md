@@ -13,7 +13,7 @@ To run the game download file RBGuys.exe and run it (recommended aspect ratio is
 
 This game runs on Windows (tested on Windows 8, Windows 8.1). But as it is created using Unity it can be built for more platforms.
 
-Controlls
+Controls
 =========
 arrows - movement
 
@@ -22,7 +22,5 @@ left ctrl - fire
 Authors
 =======
 Jan Bednarik
-
 Matej Kendra
-
-Jakub Kvita
+Jakub Kvita - kvitajakub@gmail.com
